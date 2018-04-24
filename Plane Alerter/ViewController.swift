@@ -28,7 +28,6 @@ class ViewController: NSViewController {
         }
     }
 
-
 }
 
 extension ViewController: NSTableViewDataSource {
